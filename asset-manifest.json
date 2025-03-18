@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1049441.css",
+    "main.js": "/static/js/main.b814268a.js",
+    "static/media/TwemojiMozilla.ttf": "/static/media/TwemojiMozilla.c993f93bd40b647e0b38.ttf",
+    "index.html": "/index.html",
+    "main.b1049441.css.map": "/static/css/main.b1049441.css.map",
+    "main.b814268a.js.map": "/static/js/main.b814268a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1049441.css",
+    "static/js/main.b814268a.js"
+  ]
+}
