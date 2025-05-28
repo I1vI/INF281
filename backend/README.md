@@ -251,13 +251,18 @@ backend/
 
 <div align="center">
   
-  ### 🌐 Producción
-  <div align="center">
-  [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
-  
-  ---
-  </div>
-  ### ⚙️ Variables de Entorno Configuradas
+<div align="center">
+
+### 🌐 Producción
+
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+
+---
+
+### ⚙️ Variables de Entorno Configuradas
+
+</div>
+
   
 </div>
 
